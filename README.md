@@ -6,7 +6,6 @@ It analyzes key business metrics such as total sales, orders, ratings, and order
 The dashboard helps understand customer behavior, sales performance, and regional trends.
 
 ## 📊 Dashboard Preview
-## 📊 Dashboard Preview
 ![Dashboard](swiggydashboard.png)
 
 ## 🛠️ Tools Used
