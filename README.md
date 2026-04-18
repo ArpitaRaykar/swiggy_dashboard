@@ -7,7 +7,7 @@ The dashboard helps understand customer behavior, sales performance, and regiona
 
 ## 📊 Dashboard Preview
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](swiggydashboard.png)
 
 ## 🛠️ Tools Used
 - Microsoft Excel
